@@ -17,6 +17,8 @@ Then, a second quadratic interpolation is applied to get the parameter value at 
 
 One Feature of the program is that it gives the valid range (Min-Max) of each paramter that can be controlled by a slider so that the designer can 
 pick the sutiable paramters values to achieve requirements.
-![](https://i.postimg.cc/FzWwVqXB/Animation.gif)
+![](https://i.postimg.cc/FzWwVqXB/Animation.gif) 
+
+The Program is inspired by "Analog Designer Toolbox" [ADT](https://www.master-micro.com/analog-designers-toolbox)
 
 The Program uses "Dear ImGui" [ImGui](https://github.com/ocornut/imgui) for the graphical user interface.
