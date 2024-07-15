@@ -1,0 +1,33 @@
+﻿  Appl.cpp
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(107,58): warning C4458: declaration of 'filename' hides class member
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(136,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(142,25): warning C4101: 'ptr': unreferenced local variable
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(163,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(393,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(443,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(448,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(449,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(449,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(455,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(456,76): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(456,62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(472,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(476,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(479,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(480,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(481,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(486,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(490,13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(493,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(494,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(495,13): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(506,25): warning C4996: 'ImPlot::BeginPlot': was declared deprecated
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(378,22): warning C4101: 'intrp': unreferenced local variable
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(443,17): warning C4189: 'length_index': local variable is initialized but not referenced
+  Generating code
+C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Appl.cpp(472): warning C4701: potentially uninitialized local variable 'achieved_target' used
+  1 of 2960 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    53 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example_win32_directx11.vcxproj -> C:\Users\Foqam\Downloads\imguidocking\imguidocking\examples\example_win32_directx11\Release\example_win32_directx11.exe
